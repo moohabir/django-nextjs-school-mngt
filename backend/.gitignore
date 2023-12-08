@@ -1,2 +1,6 @@
 # local env files
 .env*.local
+/venv/
+
+# Ignore requirements.txt
+/requirements.txt

@@ -64,6 +64,7 @@ REST_FRAMEWORK = {
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
+    "https://django-next-frontend.vercel.app/",
 ]
 
 CORS_ALLOW_ALL_ORIGINS = True
